@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I'm a Computer Science Engineering student • Backend Developer • CTF Player
 Currently learning backend development, improving my cybersecurity skills, and building hands-on projects to level up.<br>
 
