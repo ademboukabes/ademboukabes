@@ -3,7 +3,7 @@ I'm a Computer Science Engineering student • Junior Backend Developer • CTF 
 Currently learning Backend development, improving my cybersecurity skills, and building hands-on projects to level up.<br>
 
 
-## 🌐 Socials:
+## 🌐Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adeem.bks) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adamboukabes1@gmail.com) 
 
 # 💻 Tech Stack:
