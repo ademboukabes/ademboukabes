@@ -1,5 +1,5 @@
 #  About Me:
-I'm a Computer Science Engineering student • Junior Backend Developer • CTF Player
+I'm a Computer Science Engineering student • Backend Developer • CTF Player
 Currently learning Backend development, improving my cybersecurity skills, and building hands-on projects to level up.<br>
 
 
