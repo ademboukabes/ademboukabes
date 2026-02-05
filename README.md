@@ -1,6 +1,6 @@
 #  About Me:
 I'm a Computer Science Engineering student • Backend Developer • CTF Player
-Currently learning Backend development, improving my cybersecurity skills, and building hands-on projects to level up.<br>
+I enjoy building scalable backend systems, working close to the architecture layer, and understanding how things work under the hood. I’m actively improving my skills through hands-on projects, CTF competitions.<br>
 
 
 # 💻 Tech Stack:
