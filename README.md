@@ -4,7 +4,7 @@ I'm a Computer Science Engineering student • Backend Developer • CTF Player
 I enjoy building scalable backend systems, working close to the architecture layer, and understanding how things work under the hood. I’m actively improving my skills through hands-on projects, CTF competitions.<br>
 
 
-# 💻 Tech Stack :
+# 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
