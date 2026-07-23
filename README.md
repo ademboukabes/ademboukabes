@@ -68,21 +68,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ademboukabes&theme=dark&hide_border=false" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ademboukabes&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
----
- 
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=ademboukabes&icon=0&color=0" /></a>
-</p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=ademboukabes&icon=0&color=0" /></a>
-</p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=ademboukabes&icon=0&color=0" /></a>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
