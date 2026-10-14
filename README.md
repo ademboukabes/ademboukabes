@@ -10,12 +10,11 @@
 
 ###  About Me
 
-- 🎓 Third-year **Software Engineering** student, passionate about backend architecture and how systems work under the hood
-- 🚩 **CTF player** — sharpening security and systems knowledge through hands-on challenges.
-- 🏗️ Focused on backend engineering, microservices, and event-driven architecture
-- ☁️ Growing interest in **DevOps** — CI/CD pipelines, cloud infrastructure, and automation
-- 🌱 Currently deepening my knowledge of distributed systems and scalable infrastructure
-- ⚡ Learning by doing
+- Third-year **AI Engineering** student, passionate about backend architecture and how systems work under the hood
+- Focused on backend engineering, microservices, and event-driven architecture
+- Growing interest in **DevOps** — CI/CD pipelines, cloud infrastructure, and automation
+- Currently deepening my knowledge of distributed systems and scalable infrastructure
+- Learning by doing
 
 ---
 
